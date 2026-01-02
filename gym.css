@@ -1,0 +1,29 @@
+.header{
+   background-color: black;
+   color: yellow;
+   padding: 20px;px;
+   padding-left: 520px;
+}
+.details{
+    text-align: center;
+    background-color: rgb(255, 170, 0);
+    border-color: black;
+    border-width: 5;
+    border-style: solid;
+    display: inline-block;
+     margin-left: 505px;
+     padding: 10px;
+}
+    
+.contact{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    
+}
+
+.contact:hover{
+    color: white;
+}

@@ -1,0 +1,12 @@
+.header{
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    text-align: center;
+}
+
+.about{
+    border-color: black;
+    border-width: 5;
+    border-style: solid;
+}
